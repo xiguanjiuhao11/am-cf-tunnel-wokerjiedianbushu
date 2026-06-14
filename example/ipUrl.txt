@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/wpyok168/cfnip/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/chris202010/yxip/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/chris202010/yxip/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/wpyok168/cfnip/refs/heads/main/ip.txt
+https://raw.githubusercontent.com/yuanxiawan/cfipv4db/refs/heads/main/cfip.txt
+https://raw.githubusercontent.com/xing2kong/cfipcaiji_zijianip33/refs/heads/main/ip.txt
