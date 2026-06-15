@@ -4,4 +4,5 @@ https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt
 https://raw.githubusercontent.com/chris202010/yxip/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/wpyok168/cfnip/refs/heads/main/ip.txt
+https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt
 
